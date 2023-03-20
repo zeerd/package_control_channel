@@ -816,6 +816,17 @@
 			]
 		},
 		{
+			"name": "DiagramPreview",
+			"details": "https://github.com/zeerd/sublime-DiagramPreview",
+			"labels": ["diagrams", "plantuml", "graphviz"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "DIBOL Programming Language",
 			"details": "https://github.com/ilyakharlamov/DIBOL.tmLanguage",
 			"labels": ["language syntax", "dibol", "dbl", "cif", "synergex"],
